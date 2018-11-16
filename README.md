@@ -1,5 +1,5 @@
 # Deep-Learning-Papers
-Collection of Deep Learning Literature I find interesting
+Collection of Research Papers, Blogs, Articles, Books, etc that I find interesting and useful
 
 
 ### Using Information Theory to Understand and Train Neural Networks
