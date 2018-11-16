@@ -2,7 +2,7 @@
 Collection of Deep Learning Literature I find interesting
 
 
-### An information theoretical approach to explaining how neural networks learn
+### Using Information Theory to Understand and Train Neural Networks
 
 [The Information Bottleneck Method - April 2000](https://arxiv.org/pdf/physics/0004057v1.pdf)
 
