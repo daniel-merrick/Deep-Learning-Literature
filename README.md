@@ -1,7 +1,6 @@
 # Deep-Learning-Papers
 Collection of Deep Learning Literature I find interesting
 
---
 
 ### An information theoretical approach to explaining how neural networks learn
 
@@ -16,4 +15,3 @@ via Information - April 2017](https://arxiv.org/pdf/1703.00810.pdf)
 
 [New Theory Cracks Open the Black Box of Deep Learning - Sept 2017](https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/?fbclid=IwAR1c0RKUbQdW83wVIG2l9je7ErEkyL4vJd_yd_4_uNW4ycEn_ssqpW9b8n0?)
 
---
