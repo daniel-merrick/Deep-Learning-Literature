@@ -4,7 +4,7 @@ Collection of Deep Learning Literature I find interesting
 
 An information theoretical approach to explaining how neural networks learn
 
-[The information bottleneck method - April 2000](https://arxiv.org/pdf/physics/0004057v1.pdf)
+[The Information Bottleneck Method - April 2000](https://arxiv.org/pdf/physics/0004057v1.pdf)
 
 [Deep Learning and the Information Bottleneck Principle - March 2015](https://arxiv.org/pdf/1503.02406.pdf)
 
