@@ -1,4 +1,4 @@
-# Deep-Learning-Papers
+# Deep-Learning-Literature
 Collection of Research Papers, Blogs, Articles, Books, etc on Neural Networks that I find interesting and useful
 
 
