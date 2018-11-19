@@ -16,6 +16,16 @@ via Information - April 2017](https://arxiv.org/pdf/1703.00810.pdf)
 [New Theory Cracks Open the Black Box of Deep Learning - Sept 2017](https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/?fbclid=IwAR1c0RKUbQdW83wVIG2l9je7ErEkyL4vJd_yd_4_uNW4ycEn_ssqpW9b8n0?)
 
 
-### Optimization methods to training Neural Networks
+### Methods for training Neural Networks 'better'
+
+[Improving neural networks by preventing
+co-adaptation of feature detectors, this is Dropout - July 2012](https://arxiv.org/pdf/1207.0580.pdf)
 
 [How Does Batch Normalization Help Optimization? - Oct 2018](https://arxiv.org/pdf/1805.11604.pdf)
+
+
+### Neural Networks and Semantic Segmentation
+
+[Learning Deconvolution Network for Semantic Segmentation - May 2015](https://arxiv.org/pdf/1505.04366.pdf)
+
+[Learning to Segment via Cut-and-Paste - March 2018](https://arxiv.org/pdf/1803.06414.pdf)
