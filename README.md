@@ -5,6 +5,9 @@ Collection of Research Papers, Blogs, Articles, Books, etc on Neural Networks th
 [FUNDAMENTALS OF NEURAL
 NETWORKS - 2001](http://knn.es/Fundamentals_of_Neural_Networks.pdf)
 
+### Activation Function Stuff
+[Deep Learning using Rectified Linear Units (ReLU) - March 2018](https://arxiv.org/pdf/1803.08375.pdf)
+
 
 ### Using Information Theory to Understand and Train Neural Networks
 
