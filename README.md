@@ -8,7 +8,7 @@ NETWORKS - 2001](http://knn.es/Fundamentals_of_Neural_Networks.pdf)
 ### Activation Function Stuff
 [Deep Learning using Rectified Linear Units (ReLU) - March 2018](https://arxiv.org/pdf/1803.08375.pdf)
 
-[Survey of Neural Transfer Functions - 1999](ftp.icsi.berkeley.edu/pub/ai/jagota/vol2_6.pdf)
+[Survey of Neural Transfer Functions - 1999](ftp://ftp.icsi.berkeley.edu/pub/ai/jagota/vol2_6.pdf)
 
 
 ### Using Information Theory to Understand and Train Neural Networks
