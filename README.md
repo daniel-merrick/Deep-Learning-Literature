@@ -1,6 +1,10 @@
 # Deep-Learning-Literature
 Collection of Research Papers, Blogs, Articles, Books, etc on Neural Networks that I find interesting and useful... A growing list.
 
+### Fundamentals of Neural Networks, an introduction to foundational concepts and whatnot
+[2 FUNDAMENTALS OF NEURAL
+NETWORKS - 2001](http://knn.es/Fundamentals_of_Neural_Networks.pdf)
+
 
 ### Using Information Theory to Understand and Train Neural Networks
 
