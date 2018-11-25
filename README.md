@@ -38,3 +38,7 @@ co-adaptation of feature detectors, this is Dropout - July 2012](https://arxiv.o
 [Learning Deconvolution Network for Semantic Segmentation - May 2015](https://arxiv.org/pdf/1505.04366.pdf)
 
 [Learning to Segment via Cut-and-Paste - March 2018](https://arxiv.org/pdf/1803.06414.pdf)
+
+[Context Encoding for Semantic Segmentation - March 2018](https://arxiv.org/pdf/1803.08904.pdf
+)
+
