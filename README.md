@@ -51,6 +51,14 @@ Re-identification - January 2018](https://arxiv.org/pdf/1801.01760.pdf)
 
 [Learning to Segment via Cut-and-Paste - March 2018](https://arxiv.org/pdf/1803.06414.pdf)
 
+[Pose-Normalized Image Generation for Person Re-identification - April 2018](https://arxiv.org/pdf/1712.02225.pdf)
+
 [StarGAN: Unified Generative Adversarial Networks
 for Multi-Domain Image-to-Image Translation - Sept 2018](https://arxiv.org/pdf/1711.09020.pdf)
+
+
+### Other Cool Stuff
+
+[Learning the Latent “Look”: Unsupervised Discovery of a
+Style-Coherent Embedding from Fashion Images - August 2017](https://arxiv.org/pdf/1707.03376.pdf)
 
