@@ -41,8 +41,10 @@ co-adaptation of feature detectors, this is Dropout - July 2012](https://arxiv.o
 
 [Context Encoding for Semantic Segmentation - March 2018](https://arxiv.org/pdf/1803.08904.pdf
 )
-### Variational Autoencoders
+### Generative Models
 
 [Tutorial on Variational Autoencoders - August 2016](https://arxiv.org/pdf/1606.05908.pdf)
 
+[StarGAN: Unified Generative Adversarial Networks
+for Multi-Domain Image-to-Image Translation - Sept 2018](https://arxiv.org/pdf/1711.09020.pdf)
 
