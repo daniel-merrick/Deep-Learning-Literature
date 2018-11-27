@@ -45,6 +45,10 @@ co-adaptation of feature detectors, this is Dropout - July 2012](https://arxiv.o
 
 [Tutorial on Variational Autoencoders - August 2016](https://arxiv.org/pdf/1606.05908.pdf)
 
+[Crossing Generative Adversarial Networks for Cross-View Person
+Re-identification - January 2018](https://arxiv.org/pdf/1801.01760.pdf)
+
+
 [Learning to Segment via Cut-and-Paste - March 2018](https://arxiv.org/pdf/1803.06414.pdf)
 
 [StarGAN: Unified Generative Adversarial Networks
