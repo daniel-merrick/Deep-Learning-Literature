@@ -48,3 +48,5 @@ co-adaptation of feature detectors, this is Dropout - July 2012](https://arxiv.o
 [StarGAN: Unified Generative Adversarial Networks
 for Multi-Domain Image-to-Image Translation - Sept 2018](https://arxiv.org/pdf/1711.09020.pdf)
 
+[Learning to Segment via Cut-and-Paste - March 2018](https://arxiv.org/pdf/1803.06414.pdf)
+
