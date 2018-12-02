@@ -62,3 +62,5 @@ for Multi-Domain Image-to-Image Translation - Sept 2018](https://arxiv.org/pdf/1
 [Learning the Latent “Look”: Unsupervised Discovery of a
 Style-Coherent Embedding from Fashion Images - August 2017](https://arxiv.org/pdf/1707.03376.pdf)
 
+[A VARIATIONAL U-NET FOR CONDITIONAL APPEARANCE AND SHAPE GENERATION](https://compvis.github.io/vunet/)
+
