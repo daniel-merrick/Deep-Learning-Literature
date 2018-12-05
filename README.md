@@ -64,3 +64,9 @@ Style-Coherent Embedding from Fashion Images - August 2017](https://arxiv.org/pd
 
 [A VARIATIONAL U-NET FOR CONDITIONAL APPEARANCE AND SHAPE GENERATION](https://compvis.github.io/vunet/)
 
+[The Limitations of Deep Learning in Adversarial Settings](https://arxiv.org/pdf/1511.07528.pdf)
+
+[Maximal Jacobian-based Saliency Map Attack](https://arxiv.org/pdf/1808.07945.pdf)
+
+[SENSITIVITY AND GENERALIZATION IN NEURAL NETWORKS: AN EMPIRICAL STUDY](https://arxiv.org/pdf/1802.08760.pdf)
+
