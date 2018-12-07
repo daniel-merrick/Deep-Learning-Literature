@@ -72,3 +72,8 @@ Style-Coherent Embedding from Fashion Images - August 2017](https://arxiv.org/pd
 
 [SENSITIVITY AND GENERALIZATION IN NEURAL NETWORKS: AN EMPIRICAL STUDY](https://arxiv.org/pdf/1802.08760.pdf)
 
+[A Generative Model for People in Clothing](https://arxiv.org/pdf/1705.04098.pdf)
+
+[A Photographic Image Synthesis with Cascaded Refinement Networks](https://arxiv.org/pdf/1707.09405.pdf)
+
+[Unsupervised Person Re-identification: Clustering and Fine-tuning](https://arxiv.org/pdf/1705.10444.pdf)
