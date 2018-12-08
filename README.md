@@ -77,3 +77,5 @@ Style-Coherent Embedding from Fashion Images - August 2017](https://arxiv.org/pd
 [A Photographic Image Synthesis with Cascaded Refinement Networks](https://arxiv.org/pdf/1707.09405.pdf)
 
 [Unsupervised Person Re-identification: Clustering and Fine-tuning](https://arxiv.org/pdf/1705.10444.pdf)
+
+[Deep Asymmetric Multi-task Feature Learning](https://arxiv.org/pdf/1708.00260.pdf)
