@@ -58,6 +58,12 @@ Re-identification - January 2018](https://arxiv.org/pdf/1801.01760.pdf)
 [StarGAN: Unified Generative Adversarial Networks
 for Multi-Domain Image-to-Image Translation - Sept 2018](https://arxiv.org/pdf/1711.09020.pdf)
 
+### Negative Transfer Stuff
+[Asymmetric Multi-task Learning Based on Task Relatedness and Loss - June 2016](http://proceedings.mlr.press/v48/leeb16.pdf)
+
+[Deep Asymmetric Multi-task Feature Learning - June 2018](https://arxiv.org/pdf/1708.00260.pdf)
+
+
 
 ### Other Cool Stuff
 
