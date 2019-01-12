@@ -1,6 +1,9 @@
 # Deep-Learning-Literature
 Collection of Research Papers, Blogs, Articles, Books, etc on Neural Networks that I find interesting and useful... A growing list.
 
+### Spring 2019 - related works
+[Image-to-Image Translation with Conditional Adversarial Networks (pixtopix)](http://openaccess.thecvf.com/content_cvpr_2017/papers/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.pdf
+)
 ### Fundamentals of Neural Networks, an introduction to foundational concepts and whatnot
 [FUNDAMENTALS OF NEURAL
 NETWORKS - 2001](http://knn.es/Fundamentals_of_Neural_Networks.pdf)
@@ -43,6 +46,7 @@ co-adaptation of feature detectors, this is Dropout - July 2012](https://arxiv.o
 
 [Context Encoding for Semantic Segmentation - March 2018](https://arxiv.org/pdf/1803.08904.pdf
 )
+
 ### Generative Models
 
 [Tutorial on Variational Autoencoders - August 2016](https://arxiv.org/pdf/1606.05908.pdf)
