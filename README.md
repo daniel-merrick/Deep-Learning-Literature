@@ -7,6 +7,7 @@ Collection of Research Papers, Blogs, Articles, Books, etc on Neural Networks th
 
 [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf)
 
+[Addressing Appearance Change in Outdoor Robotics with Adversarial Domain Adaptatio](https://arxiv.org/pdf/1703.01461.pdf)
 
 ### Fundamentals of Neural Networks, an introduction to foundational concepts and whatnot
 [FUNDAMENTALS OF NEURAL
