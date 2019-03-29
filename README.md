@@ -94,3 +94,12 @@ Style-Coherent Embedding from Fashion Images - August 2017](https://arxiv.org/pd
 [Unsupervised Person Re-identification: Clustering and Fine-tuning](https://arxiv.org/pdf/1705.10444.pdf)
 
 [Deep Asymmetric Multi-task Feature Learning](https://arxiv.org/pdf/1708.00260.pdf)
+
+
+### A Review of Evaluation Metrics for Object Detection Stability
+
+[Integrated Object Detection and Tracking with Tracklet-Conditioned Detection - Nov, 2018](https://arxiv.org/pdf/1811.11167.pdf)
+
+Evaluation metrics used: "A2. Tracklet Stability Metric
+In  [66], the authors first  examined  the  problem  of  detection and tracking stability. Three metrics are proposed
+for evaluating stability, namely, fragment error, center po-sition error,  and scale and aspect ratio error.  The metricsare applied on the per-frame detection boxes, produced byvideo object detection algorithms.  For stability evaluation,the detection boxes are assigned to pseudo tracklets, aidedby the oracle ground-truth annotations.   For each ground-truth tracklet, a pseudo tracklet is formed approximately bypicking the detection box with the highest overlap with re-spect to the corresponding ground-truth at each frame2. Thestability errors are averaged over all the pseudo tracklets.It is not specified in [66] how to extend their approach totracklets produced by detection and tracking algorithms.Here, we extend [66] for evaluating the stability of detec-tion and tracking algorithms in a straightforward way. Sim-ilar to the approach in [66], we seek to find a “best-match”tracklet for each ground-truth tracklet.  All the recognizedtracklets are first classified into positive and negative track-lets, according to the box IoU and temporal IoU thresholdsin the mAPtrackmetric.   A positive tracklet is assigned tothe ground-truth tracklet with the highest temporal IoU. Foreach ground-truth tracklet, the tracklet with the highest clas-sification  score  among  all  its  assigned  tracklets  is  pickedas  its  “best-match”.   The  resulting  stability  errors  are  theaveraged errors over all the “best-match” tracklets (gener-ated at various box and temporal IoU thresholds as done formAPtrack)"
